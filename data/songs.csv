@@ -9,3 +9,8 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Golden Hour Waltz,Solo Strings,classical,serene,0.25,72,0.55,0.28,0.95
+12,Block Party Flow,DJ Metro,hip-hop,energetic,0.88,95,0.82,0.91,0.08
+13,Dirt Road Dreams,Willow Creek,country,nostalgic,0.55,102,0.52,0.61,0.72
+14,Smoke & Chrome,Delta Soul,blues,melancholic,0.48,68,0.32,0.45,0.81
+15,Sunshine Sway,Island Breeze,reggae,carefree,0.62,88,0.88,0.85,0.55
